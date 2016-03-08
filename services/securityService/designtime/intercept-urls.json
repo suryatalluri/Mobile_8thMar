@@ -1,0 +1,6 @@
+[ {
+  "urlPattern" : "/app.variables.json",
+  "permission" : "PermitAll",
+  "roles" : [ ],
+  "httpMethod" : null
+} ]
